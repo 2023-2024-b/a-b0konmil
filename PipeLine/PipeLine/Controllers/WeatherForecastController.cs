@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PipeLine.Controllers
+namespace Kreta.Controllers
 {
     [ApiController]
     [Route("[controller]")]
